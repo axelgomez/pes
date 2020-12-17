@@ -1,6 +1,9 @@
 # PES
 
-El presente repositorio consiste en el desarrollo de un algoritmo detector de contornos para la materia "Procesamiento Embebido de Señales" correspondiente al Departamento de Electrónica, Facultad Regional Avellaneda de la Universidad Tecnológica Nacional
+Procesamiento Embebido de Señales
+Departamento de Electrónica
+Facultad Regional Avellaneda
+Universidad Tecnológica Nacional
 
 ## Objetivos para aprobar la cursada
 1. Desarrollar un algoritmo tal que detecte el contorno de hasta 3 imagenes dentro del dataset [BSDS 500](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html#bsds500)
