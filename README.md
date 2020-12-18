@@ -25,7 +25,7 @@ Universidad Tecnológica Nacional
 3. Embeber el algoritmo
    1. Compilar el entorno en la BeagleBone Black
    2. Probar el algoritmo
-   3. Convertir el notebook a .py
+   3. Convertir el notebook a .py (dejar en una carpeta las imagenes resultados de cada paso)
 
 Próximos pasos a futuro:
 1. Levantar un webserver que espere por la foto
