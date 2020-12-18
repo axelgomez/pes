@@ -30,3 +30,5 @@ Universidad Tecnológica Nacional
 Próximos pasos a futuro:
 1. Levantar un webserver que espere por la foto
 2. Procesar dicha foto e imprimir los resultados con cada algoritmo de segmentación
+
+La entrega Final es en Febrero 2021
