@@ -28,5 +28,5 @@ Universidad Tecnológica Nacional
    3. Convertir el notebook a .py
 
 Próximos pasos a futuro:
-   4. Levantar un webserver que espere por la foto
-   5. Procesar dicha foto e imprimir los resultados con cada algoritmo de segmentación
+4. Levantar un webserver que espere por la foto
+5. Procesar dicha foto e imprimir los resultados con cada algoritmo de segmentación
