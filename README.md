@@ -13,5 +13,5 @@ Universidad Tecnológica Nacional
 
 ## Objetivos para aprobar el final
 1. Lograr que el algoritmo generalice mejor que el desarrollo anterior para detectar hasta 50 imagenes (y más si es posible) dentro del dataset [BSDS 500](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html#bsds500)
-2. Hacer una función para evaluar el error del algoritmo con respecto al ground-truth (resolución humana de contornos de las imagenes)
+2. Hacer una función para evaluar el error del algoritmo con respecto al ground-truth (resolución humana de contornos de las imágenes)
 3. Probar metodologías diferentes y contrastar resultados
